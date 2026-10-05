@@ -1,0 +1,6 @@
+{
+  "name": "RxTranslate - Doctor Prescription Interpreter & Medication Safety Guide",
+  "description": "Interpret doctor prescriptions into simple patient instructions, dosage administration schedules, drug interaction alerts, dangerous dosage error warnings, and medication reminder messages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
